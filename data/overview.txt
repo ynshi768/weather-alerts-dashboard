@@ -1,0 +1,2 @@
+Weather monitoring data for CA and TX regions.
+Forecasts captured for San Francisco and Los Angeles.
